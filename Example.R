@@ -5,3 +5,4 @@ Y<-rnorm(20)
 plot(X,Y)
 
 print("Hello world!")
+print("YIkes!")
