@@ -8,6 +8,7 @@ print("Hello world!")
 print("YIkes!")
 
 print("Am I here?")
-barplot(X,Y)
 
-print("second test2")
+
+print("second test")
+barplot(X,Y)
