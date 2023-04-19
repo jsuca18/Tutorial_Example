@@ -8,3 +8,6 @@ print("Hello world!")
 print("YIkes!")
 
 print("Am I here?")
+barplot(X,Y)
+
+print("second test")
